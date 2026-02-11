@@ -6,7 +6,6 @@ pkgs.mkShell {
     erlang
     elixir-ls
     rebar3
-    git
     inotify-tools
   ];
 
